@@ -53,6 +53,27 @@ button:hover {
 	color: white;
 }
 
+.text {
+	color: white;
+	padding: 40px
+}
+
+.instrctn_h {
+	font-weight: bold;
+}
+
+.instrctn_p {
+	font-size: 120%
+}
+
+.thumbnail {
+	float: right;
+	width: 400px;
+	height: 400px;
+	background-color: #232323;
+	border: 0px;
+}
+
 #msg {
 	display: inline-block;
 	width: 20%; 
@@ -66,4 +87,10 @@ button:hover {
 
 #Ans_Color {
 	font-size: 200%;
+}
+
+#rgbPic {
+	margin: 0px;
+	width: 250px;
+	height: 250px;
 }
